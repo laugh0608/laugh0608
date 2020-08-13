@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🙄所以本Github里没有什么好康的，全都是学习过程中的垃圾代码
 - 😪一起玩就来我的另一个秘密小窝：[大白萝卜の窝](https://dabailuobo,com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical">
+![](https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical">
