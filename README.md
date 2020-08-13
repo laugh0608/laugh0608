@@ -1,4 +1,4 @@
-### Hi there 👋 是大白萝卜的秘密小窝
+# Hi there 👋 是大白萝卜的秘密小窝
 
 <!--
 **laugh0608/laugh0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 😪一起玩就来我的另一个秘密小窝：[大白萝卜の窝](https://dabailuobo,com)
 
-![laugh0608's github stats](https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical">
