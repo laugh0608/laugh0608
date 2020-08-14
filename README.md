@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical)
