@@ -1,4 +1,4 @@
-# Hi there 👋 是大白萝卜的秘密小窝
+## Hi there 👋 是大白萝卜的秘密小窝
 
 <!--
 **laugh0608/laugh0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - 😱本专业是化学工程与工艺，但是很不喜欢
 - 🙄所以本Github里没有什么好康的，全都是学习过程中的垃圾代码
 - 😪一起玩就来我的另一个秘密小窝：[大白萝卜の窝](https://imbhj.com)
+
+## 20241117更新
+
+已经上班两年，目前是化工工艺工程师，仍然在坚持自学编程~
 
 ![](https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical)
 
