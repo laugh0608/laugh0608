@@ -8,7 +8,7 @@
 * 但人生的遗憾还是挺多的，调剂到了化工
 * 大一大二浑浑噩噩，天天打游戏
 * 大三大四幡然醒悟开始努力
-* 参加了CEDC并带队获得国二
+* 参加了2021CEDC并带队获得国二
 * 虽然含金量不高，但确实让我成长了一大截
 * 而且接触到了Aspen、PROii这种模拟软件
 
@@ -58,6 +58,12 @@ CEPD@BBS论坛：
 https://bbs.imbhj.com
 
 目前还有在维护的就是AFFiNE、Matrix、Mastodon和OpenWebUI，不过都是个人倾向了，这里就不展示啦
+
+## Skills
+
+> 其实大部分是吹牛逼的。
+
+[![My Skills](https://skillicons.dev/icons?i=ae,atom,autocad,bash,cs,cpp,cloudflare,css,debian,bots,docker,dotnet,electron,fortran,git,github,githubactions,go,html,idea,js,kubernetes,latex,linux,md,mastodon,matlab,nginx,nodejs,ps,postgres,pr,py,redis,rider,ruby,sqlite,sketchup,ubuntu,vercel,visualstudio,vscode,vue)](https://skillicons.dev)
 
 ## Github
 
