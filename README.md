@@ -53,8 +53,15 @@ https://bbs.imbhj.com
 
 [![My Skills](https://skillicons.dev/icons?i=ae,atom,autocad,bash,cs,cpp,cloudflare,css,debian,bots,docker,dotnet,electron,fortran,git,github,githubactions,go,html,idea,js,kubernetes,latex,linux,md,mastodon,matlab,nginx,nodejs,ps,postgres,pr,py,redis,rider,ruby,sqlite,sketchup,ubuntu,vercel,visualstudio,vscode,vue)](https://skillicons.dev)
 
-## 📂 Github
+## 📂 Dashboard
 
-![](https://github-readme-stats.vercel.app/api?username=laugh0608&show_icons=true&theme=radical)
+<!-- Copy-paste in your Readme.md file -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laugh0608&theme=radical)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48167499" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48167499&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @laugh0608" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48167499&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
