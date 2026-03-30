@@ -17,6 +17,8 @@
 
 CEPD@BBS 论坛：https://bbs.imbhj.com
 
+Radish 社区：https://radishx.com
+
 ## 🌱 Skills
 
 > 其实大部分是吹牛逼的。
